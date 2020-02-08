@@ -6,7 +6,7 @@ This data set includes around 41 demographic and employment related attributes s
 
 Based on this data a predictive machine learning model is created to determine the income level for people in the US.
 
-[View the Project Here](https://github.com/Capstone3/Census-Income/blob/master/CensusIncome.ipynb)
+[View the Jupyter Notebook Here](https://github.com/Capstone3/Census-Income/blob/master/CensusIncome.ipynb)
 
 After performing exploratory data analysis, data cleaning, data visualizations, we had split the data into train and test data with 64% and 33% proportions.
 
