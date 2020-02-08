@@ -1,5 +1,5 @@
 # Census Income Data
-Machine Learning Project
+Supervised Machine Learning Project
 
 ## Overview
 This data set includes around 41 demographic and employment related attributes such as age, gender, race, occupation, education, class of the worker, capital gain, income level etc. of 199,523 obeservations from people living in US.
