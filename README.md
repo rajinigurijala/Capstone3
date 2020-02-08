@@ -10,7 +10,7 @@ Based on this data a predictive machine learning model is created to determine t
 
 After performing exploratory data analysis, data cleaning, data visualizations, we had split the data into train and test data with 64% and 33% proportions.
 
-An evluation of various supervised machine learning algorithms resulted in selecting and training the Gradient Boosting model to predict income with 94% accuracy.
+An evaluation of various supervised machine learning algorithms resulted in selecting and training the best model. The Gradient Boosting model is refined further to predict income with 94% accuracy.
 
 ### Technologies Used
 - Python, Numpy, Pandas, Matplotlib, Seaborn, sklearn
