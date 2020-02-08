@@ -15,3 +15,7 @@ An evluation of various supervised machine learning algorithms resulted in selec
 ### Technologies Used
 - Python, Numpy, Pandas, Matplotlib, Seaborn, sklearn
 - Jupyter Notebook
+
+### References
+[Data Set](http://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/)
+[Imbalanced Data Set](https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/)
