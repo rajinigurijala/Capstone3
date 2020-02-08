@@ -1,7 +1,7 @@
-# Census Income Data
+## Census Income Data
 Supervised Machine Learning Project
 
-## Overview
+### Overview
 This data set includes around 41 demographic and employment related attributes such as age, gender, race, occupation, education, class of the worker, capital gain, income level etc. of 199,523 obeservations from people living in US.
 
 Based on this data a predictive machine learning model is created to determine the income level for people in the US.
@@ -12,6 +12,6 @@ After performing exploratory data analysis, data cleaning, data visualizations, 
 
 An evluation of various supervised machine learning algorithms resulted in selecting and training the Gradient Boosting model to predict income with 94% accuracy.
 
-## Technologies Used
+### Technologies Used
 - Python, Numpy, Pandas, Matplotlib, Seaborn, sklearn
 - Jupyter Notebook
